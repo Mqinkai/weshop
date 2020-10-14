@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="70px" height="25px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip6">
+      <path d="M 0 25  L 0 0  L 45.4545454545455 0  L 70 0  L 70 25  L 0 25  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -739 -125 )">
+    <path d="M 0 25  L 0 0  L 45.4545454545455 0  L 70 0  L 70 25  L 0 25  Z " fill-rule="nonzero" fill="#fb585c" stroke="none" transform="matrix(1 0 0 1 739 125 )" />
+    <path d="M 0 25  L 0 0  L 45.4545454545455 0  L 70 0  L 70 25  L 0 25  Z " stroke-width="2" stroke="#ffffff" fill="none" transform="matrix(1 0 0 1 739 125 )" mask="url(#clip6)" />
+  </g>
+</svg>
